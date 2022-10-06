@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ranonymous3official
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning web development with PHP.
-- 💞️ I’m looking to collaborate on JAVASCRIPT project
+- 👋 Hi, I’m Rahul.
+- 👀lerning python.
+- 
+- 💞️ I’m looking to collaborate on some python project
 - 📫 How to reach me, insta- rahu1_pandey
      twitter- rahu1_pandey
 
